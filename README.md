@@ -2,7 +2,7 @@
 
 `crypto-wallet-bruteforce` is a tool for brute forcing crypto wallets
 
-**[download]()*
+**[download]()**
 ## **Disclaimer**
 
 This script is developed for educational and research purposes only.
